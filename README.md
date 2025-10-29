@@ -7,11 +7,6 @@ It demonstrates interactive components, conditional rendering, and state managem
 
 ---
 
-## 📸 Preview
-![App Screenshot](https://api.microlink.io/?url=https%3A%2F%2Fcamilla223.github.io%2Feat-n-split%2F&overlay.browser=dark&overlay.background=linear-gradient%280deg%2C%20%23000000cc%2C%20transparent%29&screenshot=true&meta=false)
-
----
-
 ## 🚀 Features
 - 💰 Track expenses shared with multiple friends  
 - ⚖️ See balances and who owes whom  
