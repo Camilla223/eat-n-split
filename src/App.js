@@ -91,7 +91,7 @@ function FriendsList({ friends, handleClick, selectedFriend }) {
 }
 
 function Friend({ friend, handleClick, selectedFriend }) {
-  const { name, balance, image, id } = friend;
+  const { name, balance, image } = friend;
   const isSelected = name === selectedFriend?.name;
   return (
     <li className={isSelected ? "selected" : ""}>
